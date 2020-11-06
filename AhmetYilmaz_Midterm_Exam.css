@@ -1,0 +1,15 @@
+
+.container {
+   background-color:cornsilk;
+   color:sienna;
+   }
+h1, #contact {
+	background-color: maroon;
+    color: navajowhite;
+}
+#identified {
+	color: olive;
+}
+.accent {
+	text-align: center;
+}
